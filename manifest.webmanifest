@@ -1,0 +1,28 @@
+{
+  "name": "مشوار — تطبيق النقل",
+  "short_name": "مشوار",
+  "description": "اطلب مشوارك، تابع رحلاتك، وأدر محفظتك.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#047857",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["travel", "navigation"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
